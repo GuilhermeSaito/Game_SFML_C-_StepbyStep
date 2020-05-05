@@ -1,0 +1,5 @@
+Criei duas novas classes do Player 1 e 2, q vão herdar da classe entity (da para colocar os inimigos herdando dela também).
+Da mesma forma, modifiquei a classe Player para ser mais fácil de se conseguir informações dela e mudei sendo ela uma singleton class
+
+
+Precisa arrumar o pulo, porque tem que ser possível saltar mesmo em uma plataforma.
