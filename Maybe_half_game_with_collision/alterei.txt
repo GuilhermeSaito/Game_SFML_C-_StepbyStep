@@ -1,0 +1,4 @@
+Phase1 e Phase 2 viraram phaseManager
+phaseManager virou "singleton class" <- Isso porque eu não estava conseguindo alterar um elemento da classe.
+Adicionei no openMenu(para saber se vai começar na fase 1 ou na fase 2), que está junto com a seleção de personagem;
+Deixei limitado a quantidade de caracter do nome dos personagens
